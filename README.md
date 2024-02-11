@@ -1,5 +1,12 @@
+<img src="pixel-5100188_1280.png" align="right" />
 # Ping-Pong-Game
-Game of 2 players simple ball bounce of and you can select difficulty with your user names and difficulty storing in SQL Tables.
+> A Two Player game simply made using Turtle Library
+
+Hit the ball and save it from going out.
 
 # IMPORTANT
-Change files repository and SQL password ,user name & directories before use. 
+
+> Change files Location in accordance to your specifications.
+> Also Update your My SQL Username & Password.
+
+# Enjoy
