@@ -10,4 +10,6 @@ Hit the ball and save it from going out.
 > Change files Location in accordance to your specifications.
 > Also Update your My SQL Username & Password.
 
-# Enjoy
+# Enjoy!
+
+Get the popcorns and beat your opponent with the highest score!
