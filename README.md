@@ -5,7 +5,7 @@
 
 Hit the ball and save it from going out.
 
-# IMPORTANT
+# IMPORTANT!
 
 > Change files Location in accordance to your specifications.
 > Also Update your My SQL Username & Password.
