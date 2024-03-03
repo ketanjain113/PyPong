@@ -1,4 +1,4 @@
-# PyPong - Immersive Ping Pong Game with Python and Turtle Graphics
+# PyPong - Immersive Ping Pong Game  
 
 ![PyPong Preview](pixel-5100188_1280.png)
 
@@ -20,8 +20,8 @@ Welcome to PyPong, an immersive ping-pong game crafted with Python and Turtle gr
 
 ## Screenshots
 
-![PyPong Gameplay](https://example.com/pypong-gameplay.png)
-![PyPong Gameplay](https://example.com/pypong-gameplay.png)
+![PyPong Gameplay](Preview1.png)
+![PyPong Gameplay](Preview2.png)
 
 ## Feedback and Contributions
 
